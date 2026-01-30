@@ -1,6 +1,6 @@
 ## Workforce Productivity & Operational Performance for a Financial Services Company
 
-Company Context (Fictionalized – Manulife Business Model)
+Company Context (Fictionalized – Manulife Business Model) <br>
 Company Type: Large financial services firm providing insurance, wealth management, and retirement solutions across North America and Asia.
 
 ## Business Problem:
