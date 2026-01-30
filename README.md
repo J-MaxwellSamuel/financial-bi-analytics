@@ -1,4 +1,4 @@
-# Workforce Productivity & Operational Performance Dashboard for a Financial Services Company
+# Workforce Productivity & Operational Performance for a Financial Services Company
 
 - Company Context (Fictionalized – Manulife Business Model)
 - Company Type: Large financial services firm providing insurance, wealth management, and retirement solutions across North America and Asia.
@@ -18,11 +18,8 @@ Build a Power BI operational intelligence dashboard that gives leaders real-time
 
 ## Business Objectives
 
-Improve workforce productivity by identifying underperforming teams
-
-Reduce overtime costs while maintaining service levels
-
-Increase reporting accuracy and automation
-
-Enable leaders to make data-driven staffing decisions
+- Improve workforce productivity by identifying underperforming teams
+- Reduce overtime costs while maintaining service levels
+- Increase reporting accuracy and automation
+- Enable leaders to make data-driven staffing decisions
 
