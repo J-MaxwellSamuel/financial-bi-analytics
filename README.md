@@ -1,8 +1,8 @@
-# Title: Workforce Productivity & Operational Performance Dashboard for a Financial Services Company
+# Workforce Productivity & Operational Performance Dashboard for a Financial Services Company
 
-## Company Context (Fictionalized – Manulife Business Model)
+Company Context (Fictionalized – Manulife Business Model)
 
-## Company Type: Large financial services firm providing insurance, wealth management, and retirement solutions across North America and Asia.
+Company Type: Large financial services firm providing insurance, wealth management, and retirement solutions across North America and Asia.
 
 # Business Problem:
 Leadership noticed rising operational costs and uneven service levels across regions and departments. Managers lacked a centralized view of:
